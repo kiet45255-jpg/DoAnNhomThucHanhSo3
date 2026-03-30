@@ -1,0 +1,2 @@
+Đã hoàn thành chức  năng xóa sinh viên theo id và up lên GitHub
+file txt được up lên bằng tortoise git
